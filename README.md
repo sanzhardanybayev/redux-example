@@ -1,7 +1,8 @@
 # redux-example
 Welcome to the React-Redux Example!
 This kit will help you boost up project setting and increase efficiency 🚀
-
+## Demo
+![alt text](https://github.com/sanzhardanybayev/redux-example/demo.png)
 ## Get Started
 1. **Install [Node 8](https://nodejs.org)**. Need to run multiple versions of Node? Use [nvm](https://github.com/creationix/nvm) or [nvm-windows](https://github.com/coreybutler/nvm-windows)
 2. **Clone this repository.** - `https://github.com/sanzhardanybayev/react-redux-kit` or [download the zip](https://github.com/sanzhardanybayev/react-redux-kit/archive/master.zip)
